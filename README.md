@@ -5,4 +5,4 @@ feature Used
 3. petal- length
 4. petal - width
 
-Algorith - KNeighborsClassifier
+Algorithm - KNeighborsClassifier
